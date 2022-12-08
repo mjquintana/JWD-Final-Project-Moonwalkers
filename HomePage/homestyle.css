@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+ul{
+    background-color: rgba(255,255,255,0.3);
+    margin-top:-0.5em;
+    margin-left:-0.5em;
+    margin-right:-0.5em;
+}
+li{
+    color: white;
+    text-align:center;
+    display:block;
+    padding: 0.6em;
+    font-family:'Comic Sans MS';
+    
+}
